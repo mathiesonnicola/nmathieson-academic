@@ -4,7 +4,7 @@ title: "A Dangerous Balance: Indiscriminate Counterterrorism Measures and
 publication_types:
   - "2"
 authors:
-  - NicolaMathieson
+  - Nicola Mathieson
 doi: "https://doi.org/10.1093/jogss/ogab014 "
 publication: Journal of Global Security Studies
 draft: false
@@ -13,5 +13,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-08-04T12:48:52.440Z
+date: 2021
 ---
