@@ -14,8 +14,6 @@ social:
 organizations:
   - name: Australian National University
     url: ""
-education:""
-  courses: []
 email: nicola.mathieson@anu.edu.au
 superuser: true
 highlight_name: true
