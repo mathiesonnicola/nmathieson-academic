@@ -5,7 +5,7 @@ author: admin
 widget_id: About
 headless: true
 weight: 20
-title: Biography
+title: Nicola Mathieson
 design:
   background:
     image: cropped-headshot-2.png
