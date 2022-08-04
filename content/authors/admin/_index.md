@@ -1,5 +1,5 @@
 ---
-title: Nicola Mathieson
+title: 
 role: PhD Student
 avatar_filename: avatar.png
 bio: ""
