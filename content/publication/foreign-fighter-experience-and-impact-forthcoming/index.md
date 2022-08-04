@@ -3,7 +3,7 @@ title: Foreign Fighter Experience and Impact (forthcoming)
 publication_types:
   - "2"
 authors:
-  - NicolaMathieson
+  - Nicola Mathieson
 publication: Small Wars and Insurgencies
 draft: false
 featured: false
