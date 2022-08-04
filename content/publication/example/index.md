@@ -5,8 +5,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Mathieson
-  - Nicola
+  - Nicola Mathieson
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -14,7 +13,7 @@ publication: In Small Wars and Insurgencies
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: 
 url_source: ""
 url_video: ""
 title: Foreign Fighter Experience and Impact (forthcoming)
