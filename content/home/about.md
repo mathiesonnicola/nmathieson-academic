@@ -8,7 +8,7 @@ weight: 20
 title: Nicola Mathieson
 design:
   background:
-    image: cropped-headshot-2.png
+    image: ""
 ---
 # Nicola Mathieson
 
