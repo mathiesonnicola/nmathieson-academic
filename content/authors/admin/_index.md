@@ -28,4 +28,4 @@ I am interested in civil war dynamics and the legacies of participation in viole
 
 My other research projects include an examination of the intersection between gendered and family violence in the trajectories of violence of lone actor terrorists and government use of internet blackouts to manage unrest. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv_academic-august-2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+You can find my CV here.
