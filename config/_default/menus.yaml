@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#posts'
+    url: '#post'
     weight: 20
   - name: CV
     url: uploads/assets/media/cv_academic-august-2022.pdf
