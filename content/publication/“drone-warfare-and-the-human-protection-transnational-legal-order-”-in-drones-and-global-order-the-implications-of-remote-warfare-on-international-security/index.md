@@ -6,8 +6,8 @@ subtitle: edited by Paul Lushenko, Srinjoy Bose and William Maley
 publication_types:
   - "6"
 authors:
-  - CeciliaJacob
-  - NicolaMathieson
+  - Cecilia Jacob
+  - Nicola Mathieson
 doi: https://www.taylorfrancis.com/chapters/edit/10.4324/9781003139676-5/drone-warfare-human-protection-transnational-legal-order-cecilia-jacob-nicola-mathieson
 publication: Routledge
 abstract: The purpose of this chapter is to consider the broader implications of
@@ -32,5 +32,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-08-04T12:57:10.029Z
+date: 20221-08-04T12:57:10.029Z
 ---
