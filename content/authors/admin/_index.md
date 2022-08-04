@@ -1,7 +1,7 @@
 ---
 title: Nicola Mathieson
 role: PhD Student
-avatar_filename: ""
+avatar_filename: avatar.png.png
 bio: ""
 interests: []
 social:
