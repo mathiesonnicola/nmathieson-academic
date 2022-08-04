@@ -11,7 +11,7 @@ main:
     url: '#publication'
     weight: 20
   - name: CV
-    url: uploads/assets/media/cv_academic-august-2022.pdf
+    url: '#uploads/assets/media/cv_academic-august-2022.pdf'
     weight: 30
 
 
