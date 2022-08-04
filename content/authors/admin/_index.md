@@ -1,50 +1,31 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Nicola Mathieson
+role: PhD Student
 avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://twitter.com/NicolaMathieso3
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Australian National University
+    url: ""
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+  courses: []
+email: nicola.mathieson@anu.edu.au
 superuser: true
 highlight_name: true
 ---
+I am a PhD student in International Relations at Australian National University. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I hold an MPhil. in International Relations at the University of Oxford and a BA in International Studies (with Honours) from the Royal Melbourne Institute of Technology. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in civil war dynamics and the legacies of participation in violence. My dissertation research focuses on foreign fighters from the Soviet-Afghan and Afghan Civil War (1979-1992) and traces their participation in subsequent conflicts. 
+
+My other research projects include an examination of the intersection between gendered and family violence in the trajectories of violence of lone actor terrorists and government use of internet blackouts to manage unrest. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
