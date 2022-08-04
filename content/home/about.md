@@ -1,21 +1,23 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: About
+headless: true
+weight: 20
+title: Biography
+design:
+  background:
+    image: cropped-headshot-2.png
 ---
+# Nicola Mathieson
+
+I am a PhD student in International Relations at Australian National University. 
+
+I hold an MPhil. in International Relations at the University of Oxford and a BA in International Studies (with Honours) from the Royal Melbourne Institute of Technology. 
+
+I am interested in civil war dynamics and the legacies of participation in violence. My dissertation research focuses on foreign fighters from the Soviet-Afghan and Afghan Civil War (1979-1992) and traces their participation in subsequent conflicts. 
+
+My other research projects include an examination of the intersection between gendered and family violence in the trajectories of violence of lone actor terrorists and government use of internet blackouts to manage unrest. 
+
+You can find [my CV here](https://tilmangraff.github.io/uploads/CV_Graff.pdf).
