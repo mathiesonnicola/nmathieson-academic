@@ -8,7 +8,7 @@ publication_types:
 authors:
   - Cecilia Jacob
   - Nicola Mathieson
-doi: https://www.taylorfrancis.com/chapters/edit/10.4324/9781003139676-5/drone-warfare-human-protection-transnational-legal-order-cecilia-jacob-nicola-mathieson
+doi: 
 publication: Routledge
 abstract: The purpose of this chapter is to consider the broader implications of
   drone warfare for global order in terms of the Transnational Legal Order
