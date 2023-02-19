@@ -1,9 +1,10 @@
 ---
-title: Foreign Fighter Experience and Impact (forthcoming)
+title: Foreign Fighter Experience and Impact
 publication_types:
   - "2"
 authors:
   - Nicola Mathieson
+doi: http://10.1080/09592318.2022.2109888
 publication: Small Wars and Insurgencies
 abstract: "This paper examines the relationship between prior conflict
   experience and the impact of foreign fighters on armed groups. This paper
