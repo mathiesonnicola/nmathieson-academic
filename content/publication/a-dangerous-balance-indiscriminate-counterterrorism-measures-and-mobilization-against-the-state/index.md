@@ -1,8 +1,6 @@
 ---
-title: "Mathieson, Nicola. “A Dangerous Balance: Indiscriminate Counterterrorism
-  Measures and Mobilization against the State.” Journal of Global Security
-  Studies 6, no. 4 (December 2021): 1–15. https://doi.org/10.1093/jogss/ogab014.
-  "
+title: "A Dangerous Balance: Indiscriminate Counterterrorism Measures and
+  Mobilization against the State"
 publication_types:
   - "2"
 authors:
