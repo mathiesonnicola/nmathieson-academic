@@ -20,4 +20,4 @@ I am interested in civil war dynamics and the legacies of participation in viole
 
 My other research projects include an examination of the intersection between gendered and family violence in the trajectories of violence of lone actor terrorists and government use of internet blackouts to manage unrest. 
 
-You can find [my CV here](https://github.com/mathiesonnicola/nmathieson-academic/raw/fd4eade5c5953678953f37bda5ba864c64fcbdf0/CV_ACADEMIC%20August%202022.pdf).
+You can find [my CV here](assets/media/cv_academic-august-2022.pdf).
